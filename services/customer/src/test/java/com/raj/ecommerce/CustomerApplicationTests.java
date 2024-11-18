@@ -1,4 +1,4 @@
-package com.raj.ecommerce.customer;
+package com.raj.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

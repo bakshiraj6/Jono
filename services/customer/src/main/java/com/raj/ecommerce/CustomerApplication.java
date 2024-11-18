@@ -1,4 +1,4 @@
-package com.raj.ecommerce.customer;
+package com.raj.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
